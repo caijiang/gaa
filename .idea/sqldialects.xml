@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/gaa-web/src/main/java/me/jiangcai/gaa/web/service/InitService.java" dialect="H2" />
+    <file url="file://$PROJECT_DIR$/gaa-web/src/main/resources/china.sql" dialect="H2" />
+  </component>
+</project>
